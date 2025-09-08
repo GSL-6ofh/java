@@ -1,0 +1,14 @@
+size(500, 500);
+background(#1DC4E0);
+text("hier kan tekst staan zoals hallo", 250,250,250); 
+fill(#713F3F);
+text("hier kan tekst staan zoals hallo", 250,250,250); 
+fill (250,250,250);
+fill(0,255,0);
+fill(255,0,0);
+text ("of hier kan ook",150,100,200);
+fill (150,100,200);
+fill (#267914);
+text ("en hier dan ook natuurlijk", 300,400,400);
+fill (300,400,400);
+fill(#03DBFF);
